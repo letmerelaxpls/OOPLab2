@@ -1,0 +1,8 @@
+C:\Users\larsu\Desktop\uchus\IT\prohacker\OOPLab2\OOPLab2\bin\Debug\OOPLab2.exe.config
+C:\Users\larsu\Desktop\uchus\IT\prohacker\OOPLab2\OOPLab2\bin\Debug\OOPLab2.exe
+C:\Users\larsu\Desktop\uchus\IT\prohacker\OOPLab2\OOPLab2\bin\Debug\OOPLab2.pdb
+C:\Users\larsu\Desktop\uchus\IT\prohacker\OOPLab2\OOPLab2\obj\Debug\OOPLab2.csproj.AssemblyReference.cache
+C:\Users\larsu\Desktop\uchus\IT\prohacker\OOPLab2\OOPLab2\obj\Debug\OOPLab2.csproj.SuggestedBindingRedirects.cache
+C:\Users\larsu\Desktop\uchus\IT\prohacker\OOPLab2\OOPLab2\obj\Debug\OOPLab2.csproj.CoreCompileInputs.cache
+C:\Users\larsu\Desktop\uchus\IT\prohacker\OOPLab2\OOPLab2\obj\Debug\OOPLab2.exe
+C:\Users\larsu\Desktop\uchus\IT\prohacker\OOPLab2\OOPLab2\obj\Debug\OOPLab2.pdb
